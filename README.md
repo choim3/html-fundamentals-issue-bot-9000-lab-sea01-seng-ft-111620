@@ -1,4 +1,4 @@
-learn su# HTML Issue Bot 9000
+# HTML Issue Bot 9000
 
 ## Learning Goals
 
